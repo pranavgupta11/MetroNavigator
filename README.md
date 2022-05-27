@@ -1,5 +1,5 @@
 # MetroNavigator
-This is basic application of Djikstra's Algorithm which finds shortest paths between two metro stattions
+This is basic application of Djikstra's Algorithm which finds shortest paths between two metro stations
 
 AIM
 The aim of the project is used to save the time of a user by suggesting the shortest possible route with reference to Delhi Metro Map. 
